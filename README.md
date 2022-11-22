@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harivonyR
-- 👀 A data science and web developement enthousiaste
-- 🌱 I’m currently a business analyst
-- 📫 For any collaboration : harivonyratefiarison@gmail.com
+- 👀 I love Javascript for Web | Python for Data
+- 🌱 Currently a business analyst
+- 📫 Contact for any collaboration : harivonyratefiarison@gmail.com
 
 <!---
 harivonyR/harivonyR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
