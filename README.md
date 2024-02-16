@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harivonyR
-- 👀 I love Javascript for Web | Python for Data
+- 👀 I love DEV and DATA
 - 🌱 Currently a business analyst
 - 📫 Any collaboration ? harivonyratefiarison@gmail.com
 
