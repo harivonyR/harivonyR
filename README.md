@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harivonyR
-- 👀 I love DEV and DATA
+- 👀 DEV + DATA
 - 🌱 Currently a Data analyst
 - 📫 How to reach me : harivonyratefiarison@gmail.com
 
