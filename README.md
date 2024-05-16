@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harivonyR
-- 👀 DEV + DATA
-- 🌱 Currently a Data analyst
-- 📫 How to reach me : harivonyratefiarison@gmail.com
+- 👋 Hi,
+- 👀 Curious ?
+- 🌱 feel free to browse
+- 📫 Or reach on : harivonyratefiarison@gmail.com
 
 <!---
 harivonyR/harivonyR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
