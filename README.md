@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 Curious ?
-- 🌱 feel free to browse
+- 🌱 Browse
 - 📫 Or reach on : harivonyratefiarison@gmail.com
 
 <!---
