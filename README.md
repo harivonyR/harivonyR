@@ -3,7 +3,7 @@
 - 🌱 Browse
 - 📫 Or reach on : harivonyratefiarison@gmail.com
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3748265" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/sator.png" alt="Your Image Badge" />
 
 <!---
 harivonyR/harivonyR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
