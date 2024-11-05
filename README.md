@@ -1,7 +1,4 @@
-- 👋 Hi,
-- 👀 Curious ?
-- 🌱 Browse
-- 📫 Or reach on : harivonyratefiarison@gmail.com
+- 👋 Hi, Curious !
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/sator.png" alt="Your Image Badge" />
 
